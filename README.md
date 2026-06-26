@@ -25,7 +25,7 @@ const moustafa: Developer = {
   location:    "Nador, Morocco 🇲🇦",
   email:       "outergamoustafa@gmail.com",
   phone:       "+212 650 13 79 11",
-  looking_for: "PFA Internship — from May 2026 🎯",
+  looking_for: "Freelance 🎯",
   passions:    ["Web Architecture", "Clean Code", "RESTful APIs", "AI / RAG"],
   languages:   ["Tamazight", "Arabic", "French", "English"],
 };
